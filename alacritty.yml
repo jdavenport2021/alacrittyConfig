@@ -1,8 +1,6 @@
 shell:
   program: /bin/zsh
 
-
-
 window:
   opacity: 0.92
 
